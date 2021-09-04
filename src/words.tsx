@@ -1,0 +1,1 @@
+export const words = ['kamu', 'saya', 'dia', 'mereka', 'siapa', 'adalah', 'bedebah', 'kotak', 'bulat', 'persegi', 'siapapun', 'orang', 'manusia', 'hewan', 'payah', 'capek', 'semangat']
